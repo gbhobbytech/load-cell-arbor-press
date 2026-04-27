@@ -32,4 +32,7 @@ A force measurement system using a load cell and HX711 mounted to an arbor press
 
 ## Notes
 
+Build Video Link
+https://youtu.be/N4HvQViltPY?si=Xpzx3fVOqYGIi41Q
+
 This repository is a work in progress. More photos, wiring diagrams, calibration notes, and example data will be added over time.
