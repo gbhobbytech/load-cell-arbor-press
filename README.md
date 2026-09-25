@@ -36,3 +36,7 @@ Build Video Link
 https://youtu.be/N4HvQViltPY?si=Xpzx3fVOqYGIi41Q
 
 This repository is a work in progress. More photos, wiring diagrams, calibration notes, and example data will be added over time.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
