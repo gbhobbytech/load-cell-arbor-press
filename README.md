@@ -4,6 +4,8 @@ A force-measurement system that combines an arbor press with an S-type load cell
 
 The system was developed for classroom experiments investigating how 3D-printing settings affect part strength. It measures applied force, displays the reading in newtons, and records the peak force reached before a test piece fails.
 
+![Load-cell arbor press with a 3D-printed test fixture](docs/images/arbor-press-overview.jpg)
+
 ## Project Status
 
 - **Hardware build:** Complete
@@ -38,6 +40,12 @@ The Arduino then:
 - Provides controls for zeroing and resetting the measurement
 
 This allows a test piece to be compressed or bent until failure while its peak load is recorded.
+
+### Test Fixture
+
+The removable 3D-printed punch-and-die fixture provides a repeatable way to position specimens between the press ram and the load cell.
+
+![Close-up of the 3D-printed punch-and-die fixture above the load cell](docs/images/test-fixture-closeup.jpg)
 
 ## Intended Use
 
